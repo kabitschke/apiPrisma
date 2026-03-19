@@ -20,6 +20,15 @@ E alterar as variáveis de ambiente.
 Para rodar o projeto, utilize o comando padrão:
 ```bash
 npm run dev
+
+	NEXTJS
+comando para criar / npx create-next-app
+comando para rodar / npm run dev
+
+	PRISMA
+instalando prisma/ npm i -D prisma
+npx prisma init
+npx prisma db push
 ```
 
 ## Adicionais
