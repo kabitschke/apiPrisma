@@ -29,6 +29,8 @@ comando para rodar / npm run dev
 instalando prisma/ npm i -D prisma
 npx prisma init
 npx prisma db push
+
+npx prisma migrate dev
 ```
 
 ## Adicionais
